@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_daftar"><![CDATA[< Daftar]]></string>
+    <string name="kolom_email">Email</string>
+    <string name="informasi_bisnis"><![CDATA[< Informasi Bisnis]]></string>
+    <string name="isi_informasi_bisnis_anda">Isi Informasi Bisnis Anda</string>
+    <string name="nama_bisnis">Nama Bisnis</string>
+    <string name="kolom_jenis_bisnis">Jenis Bisnis</string>
+    <string name="lokasi_bisnis">Lokasi Bisnis</string>
+    <string name="sudah_punya_akun_masuk_disini">Sudah punya akun? Masuk Disini</string>
+    <string name="txt_sudah_punya_akun">Sudah Punya Akun?</string>
+    <string name="masuk_disini">Masuk Disini</string>
+    <string name="back_berlangganan"><![CDATA[< Berlangganan]]></string>
+    <string name="txt_akun_anda_sudah_diverifikasi">Akun anda sudah diverifikasi</string>
+    <string name="pilih_metode_berlangganan">PILIH METODE BERLANGGANAN</string>
+    <string name="txt_1_menggunakan_fitur_yang_tersedia">1. Menggunakan fitur yang tersedia</string>
+    <string name="menggunakan_fitur_yang_tersedia">1. Menggunakan Fitur yang tersedia</string>
+    <string name="laporan_lebih_lengkap">2. Laporan Lebih Lengkap</string>
+    <string name="kelola_multi_outlet_dalam_satu_akun">3. Kelola Multi Outlet dalam satu akun</string>
+    <string name="txt_menggunakan_semua_fitur_yang_tersedia">1. Menggunakan semua fitur yang tersedia</string>
+    <string name="_2_laporan_keuangan_pro">2. Laporan keuangan pro</string>
+    <string name="txt_outletpro">3. Kelola multi outlet dalam satu akun</string>
+    <string name="txt_inventori_pro">4. Manajemen Inventori Pro</string>
+    <string name="coba_gratis">Coba gratis</string>
+</resources>
